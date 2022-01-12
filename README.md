@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SergiMartinezR
 - 👀 I’m interested in physics, coding, music, cybersecurity, videogames and challenges
 - 🌱 I’m currently learning a lot of things. I'm studying Computer Systems Engineering, but I'm also learning about cybersecurity, pentesting, etc.
-- 💞️ I’m looking to solve all the problems we have in the computer world. It's an ambitious goal I know, but it will be amazing, even if I fail my errors
+- 💞️ I’m looking to solve all the problems we have in the computer world. It's an ambitious goal I know, but it will be amazing, even if I fail, my errors
      could be useful, just like MULTICS.
 - 📫 How to reach me. You can DM me to my Facebook <a href="https://www.facebook.com/sergi.martinez.5209/">Sergi Martinez</a> I'll answer you ASAP, or send me an email to <a href="mailto:sergimartinezr@outlook.com">sergimartinezr@outlook.com</a> if you want to look more formal.
 
